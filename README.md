@@ -1,16 +1,16 @@
-# Módulo 3 - Trilha HTML
+# Módulo 3 - Projeto - Wikipedia 
 
-**Título:** Recriando Wikipedia, com um layout melhor :)
+**Título:** Novo Wikipedia.
 
 ## Objetivo
-Este desafio consiste em treinar você com relação a estrutura do site, e também aplicar conhecimentos adiquiridos sobre semântica e acessibilidade.
+Recriação Estilizada: Utilizar HTML, CSS e possivelmente JavaScript para recriar o layout e o design da página principal da Wikipedia de maneira inovadora e visualmente atraente.
+
+Otimização Futurística: Aplicar técnicas avançadas de otimização de desempenho e responsividade para garantir uma experiência de usuário fluida em diferentes dispositivos e tamanhos de tela.
+
+Exploração Criativa: Experimentar com animações, transições, efeitos visuais e paletas de cores modernas para transformar a aparência tradicional da Wikipedia em algo novo e emocionante.
 
 ## Desafio
-Neste repositório tem uma estrutura básica já pré-montada de um layout simples com um pouco de CSS aplicado. Apenas para deixar mais apresentável.
-
-Fiquem a vontade para criar da forma que desejarem, e sobre os temas que quiserem. O intuito aqui é divertir, e ao mesmo tempo aprender com o desafio.
-
-Sigam as intruções da chamada do vídeo. Acredito que por lá, ficará mais fácil de entenderem como proceder.
+Este projeto é uma tentativa de recriar e estilizar uma página inspirada na Wikipedia de forma futurística e otimizada. A ideia é explorar técnicas modernas de design e desenvolvimento web para produzir uma versão atualizada e surpreendente da interface da Wikipedia.
 
 ## Links úteis
 - [Download do NVDA](https://www.nvaccess.org/download/)
